@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/amccabe-astronomer/demo-app
-  newTag: latest
+  newTag: af7fc2191e996514f58ceb17ffd5da12dcd11e35
