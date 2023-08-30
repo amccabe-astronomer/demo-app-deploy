@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/amccabe-astronomer/demo-app:latest
+      - image: ghcr.io/amccabe-astronomer/demo-app:7648d23136073cd4b4be4f890ceb08580179e9f8
         name: demo-app
         ports:
         - containerPort: 8080
